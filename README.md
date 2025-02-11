@@ -1,7 +1,3 @@
-Yeh **updated version** check karo:  
-
----
-
 👋 **Hi, I’m @HumaizaNaz**  
 I'm a passionate **front-end developer, aspiring data scientist, and lifelong learner.** I love creating engaging web experiences and exploring AI-driven solutions.  
 
