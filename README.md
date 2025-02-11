@@ -46,3 +46,7 @@ I'm a passionate **front-end developer, aspiring data scientist, and lifelong le
 -  "I love building interactive web experiences that blend creativity with functionality!"  
 _ "I'm a night owl developer who loves problem-solving at 3 AM!"
     "I’ve contributed to multiple projects that help communities through tech!"
+
+![GitHub followers](https://img.shields.io/github/followers/HumaizaNaz?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/HumaizaNaz?affiliations=OWNER&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=HumaizaNaz&color=blue)
