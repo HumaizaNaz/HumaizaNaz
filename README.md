@@ -1,54 +1,52 @@
-- 👋 Hi, I’m @HumaizaNaz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Yeh **updated version** check karo:  
 
+---
 
 👋 **Hi, I’m @HumaizaNaz**  
-I'm a passionate developer, aspiring data scientist, and lifelong learner.
+I'm a passionate **front-end developer, aspiring data scientist, and lifelong learner.** I love creating engaging web experiences and exploring AI-driven solutions.  
 
 ---
 
 👀 **I’m interested in...**  
-- Web development & design  
+- Front-end development (**React.js, Next.js, TypeScript**)  
 - Machine learning & AI  
 - Data analysis & visualization  
-- Open-source contributions
+- Open-source contributions  
+- UI/UX design  
 
 ---
 
 🌱 **I’m currently learning...**  
-- Python (more advanced features)  
-- React.js & Next.js  
-- Deep learning techniques  
-- Cloud computing (AWS/GCP)  
+- Advanced **Python** for data science  
+- **Next.js** for full-stack development  
+- **Deep learning** techniques  
+- **Cloud computing** (AWS/GCP)  
 
 ---
 
 💞️ **I’m looking to collaborate on...**  
 - Open-source projects  
-- Data science challenges (Kaggle, etc.)  
-- Full-stack development teams  
+- Web development & UI/UX projects  
+- Data science challenges (**Kaggle, etc.**)  
 - AI & machine learning research  
 
 ---
 
 📫 **How to reach me...**  
-- 📧 Email: [humaizaasghar@gmail.com]  
-- 💼 LinkedIn: [(https://www.linkedin.com/in/humaiza-naz/)]  
-- 🐦 facebook: [(https://www.facebook.com/profile.php?id=61567726929622)]  
+- 📧 **Email:** humaizaasghar@gmail.com  
+- 💼 **LinkedIn:** [Humaiza Naz](https://www.linkedin.com/in/humaiza-naz/)  
+- 🐦 **Facebook:** [Profile Link](https://www.facebook.com/profile.php?id=61567726929622)  
 
 ---
 
 😄 **Pronouns:**  
-- She/Her
-Hum-may-zah
+- **She/Her** (**Hum-may-zah**)  
+
 ---
 
 ⚡ **Fun fact:**  
-- I love solving puzzles and am a big fan of escape rooms!  
-- I once built a website in a weekend just to help organize a community event.
-
+- I once built a **fully responsive website in just 48 hours for a hackathon!**  
+- Apart from coding, I **create ASMR & digital art videos for relaxation!**  
+-  "I love building interactive web experiences that blend creativity with functionality!"  
+_ "I'm a night owl developer who loves problem-solving at 3 AM!"
+    "I’ve contributed to multiple projects that help communities through tech!"
