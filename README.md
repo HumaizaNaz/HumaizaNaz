@@ -1,48 +1,57 @@
-👋 **Hi, I’m @HumaizaNaz**  
-I'm a passionate **front-end developer, aspiring data scientist, and lifelong learner.** I love creating engaging web experiences and exploring AI-driven solutions.  
+
+👋 **Hi, I’m Humaiza Naz**  
+I’m a dedicated **Front-End Developer** and **Tech Innovator** passionate about building responsive, user-centric web applications and integrating cutting-edge AI and automation solutions. With expertise in modern frameworks, **Python**, **n8n**, and **OpenAI SDK**, I deliver high-quality, scalable projects that drive results. Recently, I interviewed for a startup incubation program at **NIC Karachi**, where I pitched innovative AI-driven ideas, and I've actively participated in multiple **hackathons**, honing my skills in rapid prototyping and team collaboration.
+
+
+
+💻 **My Expertise**  
+- **Front-End Development**: Crafting seamless interfaces with **React.js**, **Next.js**, **TypeScript**, and UI/UX best practices  
+- **Automation & AI**: Skilled in **n8n** for workflow automation and **prompt engineering** for optimized AI interactions  
+- **Python**: Proficient in scripting, automation, and building robust solutions  
+- **OpenAI SDK**: Experienced in integrating AI capabilities into applications  
+- **Problem-Solving**: Proven through hackathon wins, including a fully responsive website built in just 48 hours  
+
+
+
+🌟 **Why Choose Me?**  
+- I blend creativity and functionality to create intuitive, high-performance applications.  
+- I’m a **night owl coder**, excelling at solving complex challenges (3 AM coding sessions are my superpower!).  
+- I’ve contributed to impactful tech projects that empower communities, including startup pitches at NIC.  
+- I’m committed to delivering fast, reliable, and client-focused solutions under tight deadlines.  
 
 ---
 
-👀 **I’m interested in...**  
-- Front-end development (**React.js, Next.js, TypeScript**)  
-- Machine learning & AI  
-- Data analysis & visualization  
-- Open-source contributions  
-- UI/UX design  
-
----
-
-🌱 **I’m currently learning...**  
-- Advanced **Python** for data science  
+🌱 **Currently Mastering**  
 - **Next.js** for full-stack development  
-- **Deep learning** techniques  
-- **Cloud computing** (AWS/GCP)  
+- Advanced **Python** for automation and AI-driven projects  
+- **Prompt engineering** to enhance AI model performance  
+- Workflow automation with **n8n** and MCP frameworks  
 
----
 
-💞️ **I’m looking to collaborate on...**  
-- Open-source projects  
-- Web development & UI/UX projects  
-- Data science challenges (**Kaggle, etc.**)  
-- AI & machine learning research  
 
----
+💞️ **Open to Collaborate On**  
+- Dynamic web applications with modern frameworks  
+- AI-powered solutions using **OpenAI SDK**  
+- Workflow automation projects with **n8n**  
+- Open-source initiatives or innovative client projects  
 
-📫 **How to reach me...**  
-- 📧 **Email:** humaizaasghar@gmail.com  
-- 💼 **LinkedIn:** [Humaiza Naz](https://www.linkedin.com/in/humaiza-naz/)  
-- 🐦 **Facebook:** [Profile Link](https://www.facebook.com/profile.php?id=61567726929622)  
 
----
 
-😄 **Pronouns:**  
-- **She/Her** (**Hum-may-zah**)  
+📫 **Connect with Me**  
+- 📧 **Email**: humaizaasghar@gmail.com  
+- 💼 **LinkedIn**: [Humaiza Naz](https://www.linkedin.com/in/humaiza-naz/)  
+- 🐦 **X**: [HumaizaNaz](https://x.com/HumaizaNaz)  
+- 📸 **Instagram**: [humaiza.codes](https://www.instagram.com/humaiza.codes/)  
+- 👥 **Facebook**: [Profile Link](https://www.facebook.com/profile.php?id=61567726929622)  
 
----
 
-⚡ **Fun fact:**  
-- I once built a **fully responsive website in just 48 hours for a hackathon!**  
-- Apart from coding, I **create ASMR & digital art videos for relaxation!**  
-- "I love building interactive web experiences that blend creativity with functionality!"  
-_ "I'm a night owl developer who loves problem-solving at 3 AM!"
-_ "I’ve contributed to multiple projects that help communities through tech!"
+
+😄 **Pronouns**: She/Her (**Hum-may-zah**)  
+
+
+
+⚡ **Fun Facts**  
+- I create **ASMR and digital art videos** for relaxation when I’m not coding.  
+- I thrive on building solutions that balance creativity and technical precision.  
+
+**Ready to elevate your project?** Let’s collaborate to build stunning web apps, AI-driven features, or automated workflows. Reach out, and let’s create something extraordinary!
